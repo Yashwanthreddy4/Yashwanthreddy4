@@ -19,7 +19,7 @@
 
 <h3>🧑‍💻 Connect with me:</h3>
 <p>
-  <a href="https://linkedin.com/in/[your-link](https://www.linkedin.com/in/yashwanth-reddy-724965224/)" target="_blank">
+  <a href="https://linkedin.com/in/[https://www.linkedin.com/in/yashwanth-reddy-724965224/]" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
