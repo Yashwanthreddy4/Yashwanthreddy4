@@ -1,21 +1,79 @@
+<h1>👋 Hi there, I'm Yashwanth Reddy K</h1>
 
-
-<h1 align="center">Hi 👋, I'm Yashwanth Reddy K</h1>
-<h3 align="center">Aspiring Software Developer | Building Smart Systems Across Web, IoT, and AI</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanthreddy4&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthreddy4" /> </p>
-
-👨‍💻 All of my projects are available at [[GitHub Profile](https://github.com/Yashwanthreddy4)]
-
-📫 How to reach me **[yashwanthreddykorrapati@gmail.com](mailto:yashwanthreddykorrapati@gmail.com)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/yashwanth-reddy-724965224/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/yashwanth-reddy-724965224/" height="30" width="40" /></a>
+<p>
+  🎯 <strong>Aspiring Software Developer</strong><br>
+  🔧 Building Smart Systems across <strong>Web</strong>, <strong>IoT</strong>, and <strong>AI</strong><br>
+  🚀 Passionate about solving real-world problems through tech
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<hr>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashwanthreddy4&" alt="yashwanthreddy4" /></p>
+<p>
+  📂 Check out my work:
+  <a href="https://github.com/your-username" target="_blank">GitHub Profile</a><br>
+  📬 Reach me at:
+  <a href="mailto:yashwanthreddykorrapati@gmail.com">yashwanthreddykorrapati@gmail.com</a>
+</p>
+
+<hr>
+
+<h3>🧑‍💻 Connect with me:</h3>
+<p>
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
+
+<hr>
+
+<h3>🛠️ Languages & Tools</h3>
+<p>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white" alt="C">
+  <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=c%2B%2B&logoColor=white" alt="C++">
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat&logo=java&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/Perl-39457E?style=flat&logo=perl&logoColor=white" alt="Perl">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Chart.js-F5788D?style=flat&logo=chartdotjs&logoColor=white" alt="Chart.js">
+</p>
+
+<hr>
+
+<h3>💻 Programming Skills</h3>
+<ul>
+  <li>C, C++, Java</li>
+  <li>DSA (Data Structures & Algorithms)</li>
+  <li>SQL, Python</li>
+</ul>
+
+<h3>🌐 Web Technologies</h3>
+<ul>
+  <li>HTML, CSS, JavaScript</li>
+  <li>PHP, Perl</li>
+</ul>
+
+<h3>🧰 Tools</h3>
+<ul>
+  <li>Jupyter Notebook, Google Colab</li>
+  <li>Cisco Packet Tracer, Git, Selenium</li>
+  <li>Visual Studio Code</li>
+</ul>
+
+<hr>
+
+<h3>📈 GitHub Stats</h3>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Yashwanthreddy4&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+</p>
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthreddy4&layout=compact&theme=tokyonight" alt="Top Languages">
+</p>
+
 
