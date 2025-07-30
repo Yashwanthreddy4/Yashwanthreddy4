@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashwanthreddy4&label=Profile%20views&color=0e75b6&style=flat" alt="yashwanthreddy4" /> </p>
 
-- 👨‍💻 All of my projects are available at [[GitHub Profile](https://github.com/Yashwanthreddy4)]
+👨‍💻 All of my projects are available at [[GitHub Profile](https://github.com/Yashwanthreddy4)]
 
-- 📫 How to reach me **[yashwanthreddykorrapati@gmail.com](mailto:yashwanthreddykorrapati@gmail.com)**
+📫 How to reach me **[yashwanthreddykorrapati@gmail.com](mailto:yashwanthreddykorrapati@gmail.com)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
