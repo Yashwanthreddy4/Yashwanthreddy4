@@ -1,4 +1,4 @@
-## Hi there 👋
+
 
 <h1 align="center">Hi 👋, I'm Yashwanth Reddy K</h1>
 <h3 align="center">Aspiring Software Developer | Building Smart Systems Across Web, IoT, and AI</h3>
