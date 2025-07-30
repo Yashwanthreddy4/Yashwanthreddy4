@@ -71,8 +71,5 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Yashwanthreddy4&show_icons=true&theme=tokyonight" alt="GitHub Stats">
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashwanthreddy4&layout=compact&theme=tokyonight" alt="Top Languages">
-</p>
 
 
