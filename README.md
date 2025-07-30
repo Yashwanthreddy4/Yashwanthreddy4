@@ -1,9 +1,9 @@
 <h1>👋 Hi there, I'm Yashwanth Reddy K</h1>
 
 <p>
-  🎯 <strong>Aspiring Software Developer</strong><br>
-  🔧 Building Smart Systems across <strong>Web</strong>, <strong>IoT</strong>, and <strong>AI</strong><br>
-  🚀 Passionate about solving real-world problems through tech
+ 🎯 Aspiring Software Development Engineer (SDE) <br>  
+🔧 Building Smart Systems across Web, IoT, and AI <br>
+🚀 Passionate about solving real-world problems through code and scalable solutions <br>
 </p>
 
 <hr>
